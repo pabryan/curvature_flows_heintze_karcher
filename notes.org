@@ -1,0 +1,7 @@
+* Refs
+- Comparison theorems and hypersurfaces Eschenburg
+- Riemannian Geometry, by T. Sakai
+- http://www.ams.org/journals/bull/2000-37-04/S0273-0979-00-00869-7/S0273-0979-00-00869-7.pdf
+- https://www.math.stonybrook.edu/~brweber/683s10/Notes/Lecture%204%20-%20Convergence%20Theorems.pdf
+- https://books.google.de/books?id=wEcBBQAAQBAJ&pg=PA216&lpg=PA216&dq=heintze+karcher+inequality&source=bl&ots=S9f4qB8Ss7&sig=tGpvxtxZPx6jJndLUwoK79ITJyE&hl=en&sa=X&ved=0ahUKEwjrw-SDofXJAhUFHQ8KHUSmCxwQ6AEISDAF#v=onepage&q=heintze%20karcher%20inequality&f=false (Gallot, Hulie, Lafontaine)
+- Morgan and Johnson also
